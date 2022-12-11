@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="main_title">1-st Activity</string>
+    <string name="btn_activity_2">Go to 2-nd</string>
+    <string name="btn_dialog">Dialog</string>
+    <string name="groups_dialog_title">1st Group\'s Dialog</string>
+    <string name="activity_2_title">2-nd Activity</string>
+    <string name="btn_back">Back</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_close">Close</string>
+    <string name="checked">checked</string>
+    <string name="unchecked">unchecked</string>
+    <string name="clicked_ok">You clicked OK</string>
+    <string name="closed_dialog">You closed dialog</string>
+    <string-array name="members">
+        <item>Emīls Baškers</item>
+        <item>Dāvis Mediņš</item>
+    </string-array>
+</resources>
